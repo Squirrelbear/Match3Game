@@ -19,7 +19,7 @@
 
 This document will explain the fundamentals of how the Match game works.
 
-<img src="https://gyazo.com/2476cecb41f6e7109d8e6b6765ccb710">
+<img src="https://i.gyazo.com/2476cecb41f6e7109d8e6b6765ccb710.gif">
 
 # 1.3 The Rules of Match 3 Game
 
