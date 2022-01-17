@@ -19,6 +19,8 @@
 
 This document will explain the fundamentals of how the Match game works.
 
+- ([Youtube Demo](https://youtu.be/YxQATWG95i0))
+
 <img src="https://i.gyazo.com/2476cecb41f6e7109d8e6b6765ccb710.gif">
 
 # 1.3 The Rules of Match 3 Game
